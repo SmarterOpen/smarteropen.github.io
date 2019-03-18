@@ -1,2 +1,0 @@
-# Website
-The SmarterBham website
